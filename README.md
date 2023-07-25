@@ -1,9 +1,9 @@
-                                                                        _                                 
-                                                                      __| |_   _ _ __ ___  _ __   ___ _ __ 
-                                                                     / _` | | | | '_ ` _ \| '_ \ / _ \ '__|
-                                                                    | (_| | |_| | | | | | | |_) |  __/ |   
-                                                                     \__,_|\__,_|_| |_| |_| .__/ \___|_|   
-                                                                                          |_|              
+                              _                                 
+                            __| |_   _ _ __ ___  _ __   ___ _ __ 
+                           / _` | | | | '_ ` _ \| '_ \ / _ \ '__|
+                          | (_| | |_| | | | | | | |_) |  __/ |   
+                           \__,_|\__,_|_| |_| |_| .__/ \___|_|   
+                                                |_|              
 # dumper
 A tool written in C++ to take a quick look into any type of file, it allows to view the binary, decimal, octal, hexadecimal representations of files.
 It also serves the purpose for reading a file at once, or at a specific line or range of lines.
